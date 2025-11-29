@@ -1,5 +1,5 @@
 # mycat-sleepmc
-睡覺吧mc伺服器
+睡覺吧mc伺服器/n
 一個使Minecraft伺服器睡覺的小程序
 浅月不息-mc工具箱
 v2.03.6更新 
